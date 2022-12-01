@@ -1,0 +1,26 @@
+{
+  "name": "adventofcode2022",
+  "version": "1.0.0",
+  "description": "I will try my best to solve the problems!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://schietegal@github.com/schietegal/AdventOfCode2022.git"
+  },
+  "keywords": [
+    "adventofcode",
+    "adventofcode2022"
+  ],
+  "author": "Max Gottschalk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schietegal/AdventOfCode2022/issues"
+  },
+  "homepage": "https://github.com/schietegal/AdventOfCode2022#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
