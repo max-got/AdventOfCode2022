@@ -55,8 +55,8 @@ export const getPoints = (input) => {
 	});
 	return points;
 };
-console.timeEnd('ROUND1'); // 0.006ms
 getPoints(input);// 12276
+console.timeEnd('ROUND1');
 
 
 const RULES2 = new Map();
@@ -93,5 +93,5 @@ export const getPoints2 = (input) => {
 	
 	return points;
 };
-console.timeEnd('ROUND2'); // 0.006ms
 getPoints2(input); // 9975
+console.timeEnd('ROUND2'); 
