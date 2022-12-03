@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/schietegal/AdventOfCode2022#readme",
   "devDependencies": {
+    "@types/node": "^18.11.10",
     "eslint": "^8.28.0"
   }
 }
